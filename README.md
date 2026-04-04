@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+  ObsessionStar 
+  
+<p align="center">
+  <img src="https://count.getloli.com/@obsessionstar?name=obsessionstar&theme=moebooru&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
 
-<!--
-**obsessionstar/obsessionstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obsessionstar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsessionstar&theme=dark&hide_border=true&layout=compact" width="48%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsessionstar&theme=dark&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=obsessionstar&theme=github-dark&hide_border=true" />
+</p>
